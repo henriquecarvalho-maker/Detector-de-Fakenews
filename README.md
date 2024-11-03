@@ -34,7 +34,7 @@ source env/bin/activate  # Linux/Mac
 
 <h2 id="como-usar">Como Usar</h2>
 <ol>
-    <li><strong>Preparação do Dataset:</strong> Coloque seu dataset na pasta <code>data/</code>. O projeto foi originalmente baseado no dataset de Fake News Detection no Kaggle, estruturado com colunas como <code>title</code>, <code>text</code>, <code>date</code>, <code>category</code>, <code>subcategory</code>, e <code>link</code>.</li>
+    <li><strong>Preparação do Dataset:</strong> Coloque seu dataset na pasta <code>dados/</code>. O projeto foi originalmente baseado no dataset de Fake News Detection no Kaggle, estruturado com colunas como <code>title</code>, <code>text</code>, <code>date</code>, <code>category</code>, <code>subcategory</code>, e <code>link</code>.</li>
     <li><strong>Pré-processamento:</strong> Execute o notebook de pré-processamento para limpar e preparar os dados para a modelagem.</li>
     <li><strong>Treinamento do Modelo:</strong> No notebook principal, execute as células para treinar e avaliar o modelo de classificação. O notebook inclui métricas de desempenho, como precisão, recall e F1-score.</li>
     <li><strong>Testar com Novos Dados:</strong> Para testar novas amostras, execute o notebook fornecendo a entrada de texto e observe a classificação.</li>
@@ -42,9 +42,8 @@ source env/bin/activate  # Linux/Mac
 
 <h2 id="estrutura-do-projeto">Estrutura do Projeto</h2>
 <ul>
-    <li><code>data/</code>: Contém o dataset utilizado para o treinamento e validação do modelo.</li>
-    <li><code>notebooks/</code>: Notebooks Jupyter com análise exploratória, pré-processamento e treinamento do modelo.</li>
-    <li><code>src/</code>: Scripts Python para limpeza e manipulação de dados, além de funções para o modelo.</li>
+    <li><code>dados/</code>: Contém o dataset utilizado para o treinamento e validação do modelo.</li>
+    <li><code>Analise_exploratoria.ipynb/</code>: Notebooks Jupyter com análise exploratória e pré-processamento dos dados do modelo.</li>
     <li><code>requirements.txt</code>: Arquivo com as dependências do projeto.</li>
 </ul>
 
