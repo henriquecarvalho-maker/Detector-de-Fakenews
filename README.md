@@ -44,6 +44,7 @@ source env/bin/activate  # Linux/Mac
 <ul>
     <li><code>dados/</code>: Contém o dataset utilizado para o treinamento e validação do modelo.</li>
     <li><code>Analise_exploratoria.ipynb/</code>: Notebooks Jupyter com análise exploratória e pré-processamento dos dados do modelo.</li>
+    <li><code>classificador_texto.ipynb/</code>: Manipulação de dados e funções para o modelo.</li>
     <li><code>requirements.txt</code>: Arquivo com as dependências do projeto.</li>
 </ul>
 
