@@ -49,7 +49,7 @@ source env/bin/activate  # Linux/Mac
 </ul>
 
 <h2 id="resultados">Resultados</h2>
-<p>O modelo alcançou uma precisão média de <strong>98.76%</strong> na validação cruzada (com variação entre 98.58% e 98.95%) e apresentou uma precisão de cerca de <strong>99.01%</strong> no conjunto de testes. Mesmo com alta acurácia, observou-se sinais de overfitting, o que pode ser aprimorado em versões futuras do projeto. <strong>Possivelmente o modelo carece de mais dados para melhor aprendizado e portanto melhor generalização.</strong></p>
+<p>O modelo alcançou uma precisão média de <strong>98.76%</strong> na validação cruzada (com variação entre 98.58% e 98.95%) e apresentou uma precisão de cerca de <strong>99.01%</strong> no conjunto de testes. Mesmo com alta acurácia, observou-se sinais de overfitting, o que pode ser aprimorado em versões futuras do projeto. <strong>Possivelmente o modelo carece de mais dados para melhor aprendizado e, portanto melhor generalização.</strong></p>
 
 <h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
 <ul>
