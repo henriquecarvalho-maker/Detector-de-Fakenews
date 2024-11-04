@@ -1,6 +1,6 @@
 <h1>Detector de Fake News</h1>
 
-<p>Este repositório contém um projeto de <strong>Detector de Fake News</strong>, cujo objetivo é desenvolver um modelo de aprendizado de máquina capaz de classificar notícias como reais ou falsas com alta precisão. A ideia é auxiliar na identificação de desinformação, proporcionando uma ferramenta prática para análise automática de conteúdo.</p>
+<p>Este repositório contém um projeto de <strong>Detector de Fake News</strong>, cujo objetivo é desenvolver um modelo de aprendizado de máquina capaz de classificar notícias como reais ou falsas. A ideia é auxiliar na identificação de desinformação, proporcionando uma ferramenta prática para análise automática de conteúdo.</p>
 
 <h2>Sumário</h2>
 <ul>
